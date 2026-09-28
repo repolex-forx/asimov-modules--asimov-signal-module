@@ -177,7 +177,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/secrecy-0.10.3/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/582bbdf2edaefbc65944cbd7a90c0a4843ffa267/chunk-001.nq.gz",
+      "dep": "dep/582bbdf2edaefbc65944cbd7a90c0a4843ffa267.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
