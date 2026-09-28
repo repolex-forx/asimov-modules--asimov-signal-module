@@ -44,6 +44,139 @@
       ],
       "ast": [
         "aggregate/ast/582bbdf2edaefbc65944cbd7a90c0a4843ffa267/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/582bbdf2edaefbc65944cbd7a90c0a4843ffa267.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "asimov-module",
+          "ecosystem": "CARGO",
+          "version": "25.0.0-dev.21",
+          "githubOrg": "asimov-platform",
+          "githubRepo": "asimov.rs",
+          "githubCommit": "3df82e987f30ab589274c6102831086fc03eb1fa",
+          "githubTag": "25.0.0-dev.21",
+          "githubUrl": "https://github.com/asimov-platform/asimov.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "dogma",
+          "ecosystem": "CARGO",
+          "version": "0.1.11",
+          "githubOrg": "dogmatists",
+          "githubRepo": "dogma.rs",
+          "githubCommit": "05158408aca889a5bcc4ede013c42603f4e1c3c8",
+          "githubTag": "0.1.11",
+          "githubUrl": "https://github.com/dogmatists/dogma.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hex",
+          "ecosystem": "CARGO",
+          "version": "0.4",
+          "githubOrg": "KokaKiwi",
+          "githubRepo": "rust-hex",
+          "githubUrl": "https://github.com/KokaKiwi/rust-hex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "libaes",
+          "ecosystem": "CARGO",
+          "version": "0.7",
+          "githubOrg": "keepsimple1",
+          "githubRepo": "libaes",
+          "githubUrl": "https://github.com/keepsimple1/libaes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "pbkdf2",
+          "ecosystem": "CARGO",
+          "version": "0.12",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "password-hashes",
+          "githubUrl": "https://github.com/RustCrypto/password-hashes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rusqlite",
+          "ecosystem": "CARGO",
+          "version": "0.37",
+          "githubOrg": "rusqlite",
+          "githubRepo": "rusqlite",
+          "githubUrl": "https://github.com/rusqlite/rusqlite",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "sha1",
+          "ecosystem": "CARGO",
+          "version": "0.10",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "hashes",
+          "githubUrl": "https://github.com/RustCrypto/hashes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clientele",
+          "ecosystem": "CARGO",
+          "version": "0.3.8",
+          "githubOrg": "dryrust",
+          "githubRepo": "clientele.rs",
+          "githubCommit": "18a9d41f329119836131c590ec8710bdddc65862",
+          "githubTag": "0.3.8",
+          "githubUrl": "https://github.com/dryrust/clientele.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "getenv",
+          "ecosystem": "CARGO",
+          "version": "0.1.2",
+          "githubOrg": "dryrust",
+          "githubRepo": "getenv.rs",
+          "githubCommit": "6fafcf5587045ec427a804d3ea3da9b63e0605dd",
+          "githubTag": "0.1.2",
+          "githubUrl": "https://github.com/dryrust/getenv.rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getenv-0.1.2/src/varsets/posix.rs"
+        },
+        {
+          "packageName": "dotenvy",
+          "ecosystem": "CARGO",
+          "version": "0.15.7",
+          "githubOrg": "allan2",
+          "githubRepo": "dotenvy",
+          "githubCommit": "e330110a7cd9064ec913e554c9fc325c9d7cdb88",
+          "githubTag": "v0.15.7",
+          "githubUrl": "https://github.com/allan2/dotenvy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dotenvy-0.15.7/src/lib.rs"
+        },
+        {
+          "packageName": "secrecy",
+          "ecosystem": "CARGO",
+          "version": "0.10.3",
+          "githubOrg": "iqlusioninc",
+          "githubRepo": "crates",
+          "githubUrl": "https://github.com/iqlusioninc/crates/tree/main/secrecy",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/secrecy-0.10.3/src/lib.rs"
+        }
       ]
     }
   ],
