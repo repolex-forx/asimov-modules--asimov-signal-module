@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-signal-module",
+  "versions": [
+    {
+      "commit": "582bbdf2edaefbc65944cbd7a90c0a4843ffa267",
+      "tag": "0.0.3",
+      "parsed_at": "2026-09-28T07:28:19.721823+00:00"
+    }
+  ]
+}
